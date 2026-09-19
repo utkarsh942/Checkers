@@ -69,8 +69,8 @@ Checkers/
 ### Build
 
 ```bash
-git clone https://github.com/0Shrihari0/Checkers-in-C.git
-cd Checkers-in-C
+git clone https://github.com/utkarsh942/Checkers.git
+cd Checkers
 make all
 ```
 
